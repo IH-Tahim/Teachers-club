@@ -8,3 +8,10 @@
     grid-template-columns: repeat(3,1fr);
     grid-gap: 8px;
 }
+.collection-container{
+    margin: 10px;
+    text-align: center;
+    background-color: #b8cfad;
+    height: 250px;
+    border-radius: 8px;
+}
