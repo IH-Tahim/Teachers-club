@@ -1,0 +1,10 @@
+
+.teachers-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 8px;
+}
