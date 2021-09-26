@@ -13,7 +13,7 @@ const Collection = (props) => {
         <div>
             <h2>Your Collection</h2>
             <h4>Choosen Teachers: {props.collection.length}</h4>
-            <h4>Total Cost: {total.toFixed(2)}</h4>
+            <h4>Total Cost: ${total.toFixed(2)}</h4>
         </div>
     );
 };
